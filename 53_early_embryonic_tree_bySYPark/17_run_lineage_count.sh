@@ -1,0 +1,1 @@
+python DB_merged_pointmt_to_lineage_count.py DB10_50s_merged.txt.sampleN.loh_id.g_fi.fi 48 49 DB10 /home/users/sypark/00_Project/06_LineageTracing/meta_data/Lineage_tracing_summary_200209.txt 14 /home/users/sypark/00_Project/06_LineageTracing/meta_data/forcedly_assigned_lineage.txt 

@@ -1,0 +1,4 @@
+sh 00_human_b37_script_mpileup_30x.sh HC13_germline_30x
+sh 00_human_b37_script_mpileup_30x.sh HC14_germline_30x
+sh 00_human_b37_script_mpileup_30x.sh HC15_germline_30x
+sh 00_human_b37_script_mpileup_30x.sh HC16_germline_30x

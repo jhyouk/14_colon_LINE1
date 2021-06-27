@@ -1,0 +1,10 @@
+sh 00_script_MELT_SINGLE.sh HCIR1.s.md.ir.br
+sh 00_script_MELT_SINGLE.sh hs_study5_colon_control_HCNor1_SC5.s.md.ir.br
+sh 00_script_MELT_SINGLE.sh hs_study5_colon_control_HCNor1_SC4.s.md.ir.br
+sh 00_script_MELT_SINGLE.sh hs_study5_colon_control_HCNor2_SC1.s.md.ir.br
+sh 00_script_MELT_SINGLE.sh hs_study5_colon_control_HCNor2_SC3.s.md.ir.br
+sh 00_script_MELT_SINGLE.sh hs_study5_colon_control_HCNor2_bulktissue.s.md.ir.br
+sh 00_script_MELT_SINGLE.sh hs_study5_colon_control_HCNor2_SC4.s.md.ir.br
+sh 00_script_MELT_SINGLE.sh hs_study5_colon_control_HCNor2_SC6.s.md.ir.br
+sh 00_script_MELT_SINGLE.sh hs_study5_colon_IR_HCIR1_SC2.s.md.ir.br
+sh 00_script_MELT_SINGLE.sh HCNor1.s.md.ir.br

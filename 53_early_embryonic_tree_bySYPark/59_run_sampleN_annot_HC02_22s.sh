@@ -1,0 +1,1 @@
+python DB_AddSampleNinfo.py HC02_merged.txt /home/users/jhyouk/14_colon_LINE1/03_mpileup/merged_mpileup/HC02.22s.q20Q20.chr1.mpileup.snv.22N.gz &> sampleN_annot.log && mv sampleN_annot.log sampleN_annot.success

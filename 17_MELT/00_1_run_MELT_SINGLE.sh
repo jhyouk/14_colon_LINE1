@@ -1,0 +1,10 @@
+sh 00_script_MELT_SINGLE.sh Nor2_bulktissue_15x
+sh 00_script_MELT_SINGLE.sh HCIR1_germilne_15x
+sh 00_script_MELT_SINGLE.sh HCIR1_SC2_15x
+sh 00_script_MELT_SINGLE.sh HCNor1_germilne_15x
+sh 00_script_MELT_SINGLE.sh HCNor1_SC4_15x
+sh 00_script_MELT_SINGLE.sh HCNor1_SC5_15x
+sh 00_script_MELT_SINGLE.sh HCNor2_SC1_15x
+sh 00_script_MELT_SINGLE.sh HCNor2_SC3_15x
+sh 00_script_MELT_SINGLE.sh HCNor2_SC4_15x
+sh 00_script_MELT_SINGLE.sh Nor2_SC6_15x

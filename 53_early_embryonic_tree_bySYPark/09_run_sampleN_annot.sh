@@ -1,0 +1,1 @@
+python DB_AddSampleNinfo.py DB10_50s_merged.txt /home/users/sypark/00_Project/06_LineageTracing/db10/02_mpileup/01_merged_mpu_q20Q20/DB10.52s.q20Q20.chr1.mpileup.snv.50N.gz &> sampleN_annot.log && mv sampleN_annot.log sampleN_annot.success

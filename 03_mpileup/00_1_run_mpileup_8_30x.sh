@@ -1,0 +1,8 @@
+sh 00_human_b37_script_mpileup_30x.sh HC01_germline_30x
+sh 00_human_b37_script_mpileup_30x.sh HC02_germline_30x
+sh 00_human_b37_script_mpileup_30x.sh HC03_germline_30x
+sh 00_human_b37_script_mpileup_30x.sh HC04_germline_30x
+sh 00_human_b37_script_mpileup_30x.sh HC08_germline_30x
+sh 00_human_b37_script_mpileup_30x.sh HC09_germline_30x
+sh 00_human_b37_script_mpileup_30x.sh HC10_germline_30x
+sh 00_human_b37_script_mpileup_30x.sh HC12_germline_30x

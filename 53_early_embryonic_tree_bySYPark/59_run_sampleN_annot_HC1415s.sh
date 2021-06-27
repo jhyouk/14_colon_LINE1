@@ -1,0 +1,2 @@
+python DB_AddSampleNinfo.py HC14_merged.txt /home/users/jhyouk/14_colon_LINE1/03_mpileup/HC14_15_merged_mpileup/HC14.19s.q20Q20.chr1.mpileup.snv.19N.gz &> HC14_sampleN_annot.log && mv HC14_sampleN_annot.log HC14_sampleN_annot.success
+python DB_AddSampleNinfo.py HC15_merged.txt /home/users/jhyouk/14_colon_LINE1/03_mpileup/HC14_15_merged_mpileup/HC15.23s.q20Q20.chr1.mpileup.snv.23N.gz &> HC15_sampleN_annot.log && mv HC15_sampleN_annot.log HC15_sampleN_annot.success
